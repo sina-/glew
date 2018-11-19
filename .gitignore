@@ -14,6 +14,9 @@
 /build/cmake/cmake_install.cmake
 /build/cmake/Makefile
 /auto/extensions
+/auto/EGL-Registry
+/auto/OpenGL-Registry
+/auto/glfixes
 /auto/registry
 /bin
 /lib
